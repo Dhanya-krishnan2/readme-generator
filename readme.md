@@ -33,10 +33,9 @@ Here's what the CLi looks like (gif of readme Generator).
 
 <p align="center">
 <img height=400 src="/2020-07-10.png" />
-   <a href="https://drive.google.com/file/d/180daClvEo1SCpbBMFGX9QmialH8i_Kz3/view">
-       [GitHub](https://drive.google.com/file/d/180daClvEo1SCpbBMFGX9QmialH8i_Kz3/view)
-       
-       <iframe src="https://drive.google.com/file/d/180daClvEo1SCpbBMFGX9QmialH8i_Kz3/preview" width="640" height="480"></iframe>
+  
+       [](https://drive.google.com/file/d/180daClvEo1SCpbBMFGX9QmialH8i_Kz3/view) 
+      
 </p>
 
 
