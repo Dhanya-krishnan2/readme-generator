@@ -94,7 +94,7 @@ const userResponse = await inquirer
     ])
     console.log(`starting`);
         console.log(userResponse);
-
+    //arranging the answer getting from the user and sorting accordingly
 
         const Username = userResponse.username;
         const Url_1 = userResponse.url_1;
@@ -105,6 +105,8 @@ const userResponse = await inquirer
         const License_name = userResponse.license_name;
         const Contributors = userResponse.contributors;
         const Tests = userResponse.tests;
+    
+    //making the API to check the users in the Github
 
         const Response = {
             getUsername (username) { 
@@ -116,7 +118,9 @@ const userResponse = await inquirer
                   });
             }
         } 
-
+   
+        //storing the data in the constant variable
+        
         const Data = Response.data;
         const Name = Response.username;
         const Url = Response.html_url;
@@ -126,6 +130,8 @@ const userResponse = await inquirer
         console.log(Names_Array);
 
         var resultContributor;
+    
+    //making an api call to find out the contributers
 
         for ( i = 0; i < Names_Array.length; i++ ) {
             var git_username = Names_Array[i];
@@ -135,7 +141,7 @@ const userResponse = await inquirer
                 resultContributor += (`
             \n <img src="${profileImage2}" alt="drawing" width="150" display="inline"/> ${git_username}  GitHubLink: ${Url_2}`);
         }
-
+         //populating the data for the user who creates the readme file
         var result = (`
 
         # ${Project_title} 
