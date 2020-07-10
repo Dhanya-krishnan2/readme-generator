@@ -105,7 +105,7 @@ As developer it is really easy to have command line interface to buid a readme o
 
 ## License 
 
-This project is licensed under **Dhany Kunhikrishnan**
+This project is licensed under **Dhanya Kunhikrishnan**
 
 ## Contributors
 
@@ -116,7 +116,7 @@ Dhanya-Kunhikrishnan
 ## Author 
     
 **Dhanya-Kunhikrishan**
-**Dhanya-keishana2(Git hub name)**
+**Dhanya-krishnan2(Git hub name)**
     
 Email: dhanyakunhi@gmail.com
     
@@ -130,7 +130,10 @@ GitHub: https://github.com/Dhanya-krishnan2
   - [Git Version Control](https://git-scm.com/)
   - [Visual Studio Code](https://code.visualstudio.com)
   - [mastering markdown](https://guides.github.com/features/mastering-markdown/)
-  - [read-examples]https://github.com/microsoft/vscode/blob/master/README.md
+  - [read-examples](https://github.com/microsoft/vscode/blob/master/README.md)
+  The screenshot of this CLI readme application is shown below
+  ![](/2020-07-10%20(1).png)
+  ![](/2020-07-10.png)
     
 
                 
