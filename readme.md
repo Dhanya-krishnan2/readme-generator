@@ -33,6 +33,7 @@ Here's what the CLi looks like (gif of readme Generator).
 
 <p align="center">
 <img height=400 src="/2020-07-10.png" />
+    <a href="https://drive.google.com/file/d/1v0f1i_lzRxjf_zYOPl7TxvNB0rmnHezA/view">
   
        [](https://drive.google.com/file/d/180daClvEo1SCpbBMFGX9QmialH8i_Kz3/view) 
       
